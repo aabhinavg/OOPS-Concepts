@@ -23,7 +23,7 @@ In this hotel person with the name
     <li>Prashant is a Hotel Manager
     <li>Praneet is a Customer
     <li>Abhinav is a  Cheif
-    <li>Ganesh  is a Waiter
+    <li>Ganesh  is a Waiter </br>
   If a Praneet comes inside the hotel before placing the order their will be conversion between Praneet who is customer with the waiter who is Ganesh
   <pre>
         Pranet :- Hello, Can I know the meals in the hotel
